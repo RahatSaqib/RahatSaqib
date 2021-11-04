@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahatsaqib&label=Profile%20views&color=0e75b6&style=flat" alt="rahatsaqib" /> </p>
 
-- 🌱 I’m currently learning **Laravel,node.js &vue.js**
+- 🌱 I’m currently learning **Solidity&Blockchain market**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
