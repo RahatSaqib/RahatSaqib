@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahatsaqib&label=Profile%20views&color=0e75b6&style=flat" alt="rahatsaqib" /> </p>
 
-- 🌱 I’m currently learning **Solidity&Blockchain market**
+- 🌱 I’m currently working as a **Backend Developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
