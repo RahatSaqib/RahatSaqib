@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sakib Uddin Ahmed</h1>
-<h3 align="center">A passionate Android Developer as well as a frontend developer in Dhaka,Bangladesh.I am a quick learner on every language.</h3>
+<h3 align="center">A passionate Backend Developer as well as a frontend developer in Dhaka,Bangladesh.I am a quick learner on every language.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahatsaqib&label=Profile%20views&color=0e75b6&style=flat" alt="rahatsaqib" /> </p>
 
